@@ -15,25 +15,20 @@
 
 * 🌐 Exploring **AI & Machine Learning**, focusing on challenges like the **Turing Test** and **human-computer interaction**.
 * 📝 Writing on **AI ethics** and the **societal impact of space exploration**.
-* 📚 Fueling creativity with **sci-fi literature**, blending storytelling with technology insights.
 * 🧠 Continuously fascinated by **psychology** and **human behavior**, always seeking to understand the complexities of the mind.
 * 🌌 Deeply intrigued by the **mysteries of the cosmos**, from black holes to dark matter, and everything in between.
-* 🎨 Passionate about **art** in various forms, from **painting** to **photography**, blending creativity and technical skills.
 * 🤖 I use transformers and **large language models (LLMs)** to make my work more efficient and creative in certain cases.
 * 🔬 Driven by curiosity for **quantum fields**, **physics**, and **mathematics**, exploring the fundamental principles of the universe.
 * 🧪 Obsessed with **chemistry**, especially how molecular interactions shape the world around us.
-* 🌌 Inspired by pioneers like NASA, SpaceX, and Blue Origin, constantly driven by the advancements in space exploration.
 * 🧑‍🚀 Interested in **space exploration**, fascinated by the unknown, and driven to contribute to humanity’s venture beyond Earth.
 * 🧬 Always researching **biotechnology** and its role in shaping the future of medicine and human advancement.
 * 💡 Focused on **self-improvement** and **multidisciplinary growth**, approaching challenges holistically.
 * ✍️ Passionate about **writing** to simplify complex ideas and make them more accessible.
-* 🧘‍♂️ Deeply interested in **mindfulness** and **meditation**, seeking to balance mind, body, and spirit.
-* 🌍 A lover of **history** and **philosophy**, pondering over the cycles of civilization and the fundamental truths that have shaped our existence.
 * 🌱 Fascinated by **sustainability**, environmental issues, and finding innovative solutions for a greener future.
 * 🔒 Passionate about **cryptography** and the intersection of security, privacy, and digital freedom in the modern age.
 * 📊 Enthusiast about **data science** and **big data**, using numbers to reveal insights about human behavior, trends, and the world.
 * 💭 Fun fact: I'm as happy as no one.
-
+  
 ---
 
 ## 🔢 Every Commit, Expanding the Horizon
@@ -151,3 +146,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </div>
+
+> यथा अधिकं पठामि, तथा अधिकं जानामि यः मम ज्ञानं अल्पं अस्ति। सम्पूर्णं विषं अस्ति, किंतु तत्रैव सौंदर्यं अस्ति।
