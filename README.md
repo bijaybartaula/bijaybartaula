@@ -25,19 +25,11 @@
 * 🌌 Inspired by pioneers like NASA, SpaceX, and Blue Origin, constantly driven by the advancements in space exploration.
 * 🧑‍🚀 Interested in **space exploration**, fascinated by the unknown, and driven to contribute to humanity’s venture beyond Earth.
 * 🧬 Always researching **biotechnology** and its role in shaping the future of medicine and human advancement.
-* 🎮 Gaming sharpens my **strategic thinking** and **problem-solving** skills.
 * 💡 Focused on **self-improvement** and **multidisciplinary growth**, approaching challenges holistically.
 * ✍️ Passionate about **writing** to simplify complex ideas and make them more accessible.
-* 🎶 My **music taste** is high, always seeking out the finest melodies and genres.
 * 🧘‍♂️ Deeply interested in **mindfulness** and **meditation**, seeking to balance mind, body, and spirit.
-* 🏆 **Sports** have instilled discipline, teamwork, and resilience in me.
-* 🎥 A **movie lover**, drawing inspiration from cinematic storytelling to understand human nature.
-* 🍳 If you need a meal with **minimal ingredients**, I can whip something up—innovation isn't just for machines, it's for food too.
 * 🌍 A lover of **history** and **philosophy**, pondering over the cycles of civilization and the fundamental truths that have shaped our existence.
-* 🏅 Sometimes, I even earn **chicken awards** in academics, just to keep it fun.
-* 🏞️ Went to the **museum** and **park** with **Mailo**, embracing the joys of exploration in the real world.
 * 🌱 Fascinated by **sustainability**, environmental issues, and finding innovative solutions for a greener future.
-* ✈️ Avid **traveler**, always keen to explore new cultures, perspectives, and adventures.
 * 🔒 Passionate about **cryptography** and the intersection of security, privacy, and digital freedom in the modern age.
 * 📊 Enthusiast about **data science** and **big data**, using numbers to reveal insights about human behavior, trends, and the world.
 * 💭 Fun fact: I'm as happy as no one.
