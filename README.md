@@ -1,7 +1,7 @@
 # Namaste, I'm Keyser
 
 <!-- Quantum Code Animation -->
-<a href="https://github.com/keyser">
+<a href="https://github.com/bijaybartaula">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1200&pause=600&color=0969DA&center=true&vCenter=true&multiline=true&width=1000&height=300&lines=console.log(%22The+Quest+for+Knowledge%22)%3B%0A%0Aconst+explorer+%3D+%22Keyser%22%3B%0Alet+journey+count+%3D+0%3B%0A%0Aconst+interval+%3D+setInterval(()+%3D%3E+%7B%0A++console.log(%60%24%7Bexplorer%7D+is+%3B%0A%0Adecoding+quantum+codes+of+existence...%60)%3B%0A++console.log(%22Exploring+science%2C+philosophy%2C+and+the+universe%22)%3B%0A++console.log(%22Seeking+the+patterns+of+nature+and+secrets+of+reality%22)%3B%0A++console.log(%22Pushing+the+limits+of+consciousness+and+understanding.%22)%3B%0A++if+(%2B%2Bjourney+count+%3E%3D+10)+clearInterval(interval)%3B%0A%7D%2C+800)%3B" 
     alt="Quantum Exploration Animation" />
 </a>
@@ -13,21 +13,22 @@
 
 # 📖 The Trail I Tread
 
-* 🌐 Exploring **AI & Machine Learning**, focusing on challenges like the **Turing Test** and **human-computer interaction**.
-* 📝 Writing on **AI ethics** and the **societal impact of space exploration**.
-* 🧠 Continuously fascinated by **psychology** and **human behavior**, always seeking to understand the complexities of the mind.
-* 🌌 Deeply intrigued by the **mysteries of the cosmos**, from black holes to dark matter, and everything in between.
-* 🤖 I use transformers and **large language models (LLMs)** to make my work more efficient and creative in certain cases.
-* 🔬 Driven by curiosity for **quantum fields**, **physics**, and **mathematics**, exploring the fundamental principles of the universe.
-* 🧪 Obsessed with **chemistry**, especially how molecular interactions shape the world around us.
-* 🧑‍🚀 Interested in **space exploration**, fascinated by the unknown, and driven to contribute to humanity’s venture beyond Earth.
-* 🧬 Always researching **biotechnology** and its role in shaping the future of medicine and human advancement.
-* 💡 Focused on **self-improvement** and **multidisciplinary growth**, approaching challenges holistically.
-* ✍️ Passionate about **writing** to simplify complex ideas and make them more accessible.
-* 🌱 Fascinated by **sustainability**, environmental issues, and finding innovative solutions for a greener future.
-* 🔒 Passionate about **cryptography** and the intersection of security, privacy, and digital freedom in the modern age.
-* 📊 Enthusiast about **data science** and **big data**, using numbers to reveal insights about human behavior, trends, and the world.
-* 💭 Fun fact: I'm as happy as no one.
+* Exploring **AI & Machine Learning**, focusing on challenges like the **Turing Test** and **human-computer interaction**.
+* Writing on **AI ethics** and the **societal impact of space exploration**.
+* Continuously fascinated by **psychology** and **human behavior**, always seeking to understand the complexities of the mind.
+* Deeply intrigued by the **mysteries of the cosmos**, from black holes to dark matter, and everything in between.
+* I use transformers and **large language models (LLMs)** to make my work more efficient and creative in certain cases.
+* Driven by curiosity for **quantum fields**, **physics**, and **mathematics**, exploring the fundamental principles of the universe.
+* Obsessed with **chemistry**, especially how molecular interactions shape the world around us.
+* Interested in **space exploration**, fascinated by the unknown, and driven to contribute to humanity’s venture beyond Earth.
+* Always researching **biotechnology** and its role in shaping the future of medicine and human advancement.
+* Focused on **self-improvement** and **multidisciplinary growth**, approaching challenges holistically.
+* Passionate about **writing** to simplify complex ideas and make them more accessible.
+* Fascinated by **sustainability**, environmental issues, and finding innovative solutions for a greener future.
+* Passionate about **cryptography** and the intersection of security, privacy, and digital freedom in the modern age.
+* Enthusiastic about **data science** and **big data**, using numbers to reveal insights about human behavior, trends, and the world.
+* Frequently **watching cinema**, both classic and contemporary, as a way to understand culture, storytelling, and emotion.
+* Fun fact: I'm as happy as no one.
   
 ---
 
