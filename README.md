@@ -103,11 +103,11 @@ Within these digital halls, I pursue the most profound questions that have capti
 | *"Space exploration is awareness expanding beyond terrestrial boundaries"* | On cosmic evolution |
 | *"The blockchain of existence connects every particle to every star"* | On universal interconnectedness |
 | *"Machine learning mirrors the universe learning about itself"* | On recursive self-awareness |
+| *"Entropy writes the universe’s poetry; we are its temporary syntax"* | On impermanence and information theory |
+| *"Neural networks are the new alchemy, transmuting raw data into gold of insight"* | On the hidden magic of pattern recognition |
 | *"To code is to sculpt in the fourth dimension, where logic, time, and imagination converge"* | On programming as metaphysical creation |
 | *"Civilizations are cosmic memory palaces, encoding survival into stories and mathematics"* | On culture as a computational archive |
 | *"The post-human mind will not replace us; it will remember us as its childhood"* | On the continuity of human and machine intelligence |
-| *"Entropy writes the universe’s poetry; we are its temporary syntax"* | On impermanence and information theory |
-| *"Neural networks are the new alchemy, transmuting raw data into gold of insight"* | On the hidden magic of pattern recognition |
 | *"Time is the only currency that even photons cannot escape, yet information cheats it by entanglement"* | On the paradox of temporality and quantum communication |
 
 </details>
