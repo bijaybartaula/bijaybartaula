@@ -67,30 +67,8 @@ Within these digital halls, I pursue the most profound questions that have capti
 
 ---
 
-## Current Investigations  
-*The Frontiers of Human Understanding*
-
-<details>
-  <summary><strong>Research Dimensions &#x25BC;</strong></summary>
-
-- Quantum Computing & Information Theory
-- Consciousness Studies & Neural Architecture
-- Theoretical Physics & Mathematical Cosmology
-- Pattern Recognition in Complex Systems
-- Computational Chemistry & Molecular Simulation
-- Autonomous Systems for Space Exploration
-
-</details>
-
----
-
 ## **Axioms of Existence**
-
-<div align="center">
-
 *Philosophical Meditations from the Digital Monastery*
-
-</div>
 
 <details>
   <summary><strong>Meditations &#x25BC;</strong></summary>
@@ -109,6 +87,23 @@ Within these digital halls, I pursue the most profound questions that have capti
 | *"To code is to sculpt in the fourth dimension, where logic, time, and imagination converge"* | On programming as metaphysical creation |
 | *"Civilizations are cosmic memory palaces, encoding survival into stories and mathematics"* | On culture as a computational archive |
 | *"Time is the only currency that even photons cannot escape, yet information cheats it by entanglement"* | On the paradox of temporality and quantum communication |
+
+</details>
+
+---
+
+## Current Investigations  
+*The Frontiers of Human Understanding*
+
+<details>
+  <summary><strong>Research Dimensions &#x25BC;</strong></summary>
+
+- Quantum Computing & Information Theory
+- Consciousness Studies & Neural Architecture
+- Theoretical Physics & Mathematical Cosmology
+- Pattern Recognition in Complex Systems
+- Computational Chemistry & Molecular Simulation
+- Autonomous Systems for Space Exploration
 
 </details>
 
